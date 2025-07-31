@@ -12,7 +12,7 @@
 🌟 اگه **پنل BPB** براتون مفید بوده، با حمایتتون بهم دلگرمی می‌دید 🌟
 
 ```title="USDT (BEP20)"
-0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158
+0xbdf15d41C56f861f25b2b11C835bd45dfD5b792F
 ```
 
 ## ویژگی‌ها
@@ -22,7 +22,7 @@
 * **پروتکل‌های متنوع**: ارائه کانفیگ‌های VLESS، Trojan و Wireguard (Warp).
 * **کانفیگ‌های Warp Pro**: کانفیگ‌های Warp بهینه‌شده برای شرایط خاص ایران.
 * **پشتیبانی از Fragment**: اتصال حتی در صورت فیلتر شدن دامنه.
-* **قوانین مسیریابی کامل**: دور زدن سایت‌های ایرانی، چینی، روسی و LAN، مسدود کردن QUIC، محتوای پورن، تبلیغات، بدافزارها، فیشینگ و غیره.
+* **قوانین مسیریابی کامل**: دور زدن سایت‌های ایرانی، چینی، روسی و LAN، مسدود کردن QUIC، محتوای پورن، تبلیغات، بدافزارها، فیشینگ و در زدن سایت‌های تحریمی.
 * **زنجیره‌ی Proxy**: می‌تونید یه Proxy زنجیره‌ای اضافه کنید تا IP ثابت بشه.
 * **پشتیبانی از برنامه‌های مختلف**: لینک‌های اشتراک برای برنامه‌های با هسته‌های Xray، Sing-box و Clash-Mihomo.
 * **پنل امن با رمز عبور**: پنل محافظت شده با رمز عبور.
@@ -44,9 +44,9 @@
 
 |       Client        |     Version      | Fragment support | Warp Pro support |
 | :-----------------: | :--------------: | :--------------: | :--------------: |
-|     **v2rayNG**     | 1.9.33 یا بالاتر | :material-check: | :material-check: |
-|     **v2rayN**      | 7.8.3 یا بالاتر  | :material-check: | :material-check: |
-|   **v2rayN-PRO**    |  1.8 یا بالاتر   | :material-check: | :material-check: |
+|     **v2rayNG**     | 1.10.2 یا بالاتر | :material-check: | :material-check: |
+|     **v2rayN**      | 7.12.5 یا بالاتر | :material-check: | :material-check: |
+|   **v2rayN-PRO**    |  1.9 یا بالاتر   | :material-check: | :material-check: |
 |      **Husi**       |                  | :material-close: | :material-close: |
 |    **Sing-box**     | 1.11.2 یا بالاتر | :material-close: | :material-close: |
 |    **Streisand**    | 1.6.48 یا بالاتر | :material-check: | :material-check: |
@@ -54,10 +54,12 @@
 |  **Shadowrocket**   |                  | :material-close: | :material-close: |
 |     **Nekoray**     |                  | :material-check: | :material-close: |
 |     **Hiddify**     | 2.5.7 یا بالاتر  | :material-check: | :material-check: |
-|     **NikaNG**      |                  | :material-check: | :material-check: |
+|     **MahsaNG**     |                  | :material-check: | :material-check: |
 |   **Clash Meta**    |                  | :material-close: | :material-close: |
 | **Clash Verge Rev** |                  | :material-close: | :material-close: |
 |     **FLClash**     |                  | :material-close: | :material-close: |
+|   **AmneziaVPN**    |                  | :material-close: | :material-check: |
+|    **WG Tunnel**    |                  | :material-close: | :material-check: |
 
 ---
 
